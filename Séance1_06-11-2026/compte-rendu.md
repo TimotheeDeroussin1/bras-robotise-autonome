@@ -9,8 +9,8 @@ La séance a débuté par un échange avec M. Lebreton au sujet du projet. Les c
 
 ## 2. Modélisation des composants
 
-- **Roulement de type « lazy Susan » :** modélisé à partir de mesures relevées sur la pièce réelle. Il assure la rotation de la plateforme sur laquelle repose le bras.
-- **Carte de commande des servomoteurs :** modélisée à partir des dimensions fournies par le vendeur (fiche AliExpress), afin de prévoir son emplacement et sa fixation sur le bâti.
+- **Roulement  lazy Susan :** modélisé à partir de mesures relevées sur la pièce réelle. Et ajout des liaisons sur la pièce. Il assure la rotation de la plateforme sur laquelle repose le bras.
+- **Carte de commande des servomoteurs :** modélisée à partir des dimensions fournies sur AliExpress, afin de prévoir son emplacement et sa fixation sur le bâti.
 
 ![Roulement](roulement.png)
 *Figure 1 : modèle 3D du roulement*
@@ -18,6 +18,6 @@ La séance a débuté par un échange avec M. Lebreton au sujet du projet. Les c
 ![Carte](Carte_moteur.png)
 *Figure 2 : modèle 3D de la carte de commande des moteurs*
 
-## 3. Bilan et suite
+## 3. Bilan
 
-Les deux composants sont modélisés et prêts à être intégrés à l'assemblage. La prochaine étape consiste à poursuivre la modélisation des autres pièces du robot.
+Les deux composants sont modélisés et prêts à être intégrés à l'assemblage. 
